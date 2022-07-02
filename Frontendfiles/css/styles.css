@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  .container{
+    height: 579px;
+    padding: 20px;
+  }
+.bg{
+    background-image: url('../images/image1.jpg');
+    width : 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.btn-primary{
+    width : 180px;
+    height: 50px;
+}
+
+.btn-success{
+    width : 180px;
+    height: 50px;
+}
+.companyname{
+    color: aqua;
+    text-align: center;
+    font-weight: bolder;
+    font-family: fantasy;
+    font-size: 2.5em;
+}
+
+.navbar-default {
+    border-radius: 0px;
+    border: 4px black;
+    background-color:rgb(5, 68, 54);
+    width : 100%;
+    margin: 0px;
+
+}
+
+
+.text-center {
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+  }
